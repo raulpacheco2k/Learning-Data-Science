@@ -1,4 +1,4 @@
-# Python do Zero
+# [Sigmoidal](https://sigmoidal.ai/) [Python Do Zero](https://escola.sigmoidal.ai/curso-python/)
 Neste repositório irei armazenar os arquivos de estudo do curso [Python do Zero](https://escola.sigmoidal.ai/curso-python/) ministrado pelo professor [Carlos Melo](https://github.com/carlosfab)
 
 ### Atividades
