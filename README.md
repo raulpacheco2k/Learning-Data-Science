@@ -1,5 +1,5 @@
-# [Sigmoidal](https://sigmoidal.ai/) [Python Do Zero](https://escola.sigmoidal.ai/curso-python/)
-Neste repositório irei armazenar os arquivos de estudo do curso [Python do Zero](https://escola.sigmoidal.ai/curso-python/) ministrado pelo professor [Carlos Melo](https://github.com/carlosfab)
+# Sigmoidal Python Do Zero
+Neste repositório armazenarei arquivos de estudo e exercícios das aulas ministradas pelo professor [Carlos Melo](https://github.com/carlosfab) no curso [Python do Zero](https://escola.sigmoidal.ai/curso-python/) da escola de programação [Sigmoidal](https://sigmoidal.ai/).
 
 ### Atividades
 1. [Analisando dados de vendas](https://github.com/raulpacheco2k/Learning-Data-Science/blob/main/Analisando_dados_de_vendas.ipynb)
